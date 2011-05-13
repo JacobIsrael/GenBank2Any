@@ -1,0 +1,63 @@
+README
+--------------------------------------------
+GenBank2Any v. 0.2
+(c) 2008 Jacob Israel Cervantes Luevano
+Langebio Cinvestav, Dept. of Bioinformatics 
+--------------------------------------------
+
+TABLE OF CONTENTS
+I.   INTRODUCTION
+II.  REQUIRIMENTS
+III. INSTRUCTIONS
+IV.  NOTES
+
+
+Introduction
+============
+GenBank2Any allows to extract the sequences in several formats and separate files, each file contains the complete sequence
+
+Requiriments
+============
+
+ - Mono Runtime 1.9.1 and Mono C# Compilers(for.NET 1.1 and .NET 2.0)
+ - sharpPDF dynamic link library are included
+
+ * Optionally you can use the Microsoft.NET C# Compilers  
+
+This program runs on Windows, Linux, Mac OS X , iPhone and Android.
+
+No Makefile included, sorry.
+
+Instructions
+============
+
+to compile follow this steps:
+
+a) compile a GenBank2Html , IGenBank2Any : 
+   $gmcs GenBank2Html.cs IGenBank2Any.cs -t:library -out:GenBank2Html.dll
+   
+b) compile a GenBank2Text , IGenBank2Any : 
+   $gmcs GenBank2Text.cs IGenBank2Any.cs -t:library -out:GenBank2Text.dll
+
+c) compile a GenBank2Pdf, IGenBank2Any :
+   $gmcs GenBank2Pdf.cs IGenBank2Any.cs -r:sharpPDF.dll -t:library -out:GenBank2Pdf.dll	
+   
+d) compile the main program : 
+   $gmcs -r:GenBank2Html.dll,GenBank2Text.dll,GenBank2Pdf.dll Main.cs -out:GenBank2Any.exe
+
+to run:
+
+a) mono GenBank2Any.exe --file test/testdata.gb --mode html   --> generate html files
+b) mono GenBank2Any.exe --file test/testdata.gb --mode text   --> generate text files
+c) mono GenBank2Any.exe --file test/testdata.gb --mode pdf   --> generate pdf files
+d) mono GenBank2Any.exe --help 
+
+Notes: 
+ - only html,text and pdf modes are supported.
+ - you can use a relative or absolute paths to the parameter --file.
+
+Futures:
+ - Makefile or autotools in next versions.
+ - more modes.
+ 
+by jacobnix@gmail.com, 2008, Mexico.
