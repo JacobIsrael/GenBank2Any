@@ -1,7 +1,6 @@
-GenBank2Any allows to cut a GenBank File in many html or text independent files. 
-each html file generated contains a complete sequence data.
+GenBank2Any allows to extract the sequences in several formats and separate files, each file contains the complete sequence
 
-Copyright (C) 2008 Jacob Cervantes, jacobnix@gmail.com
+Copyright (C) 2008 Jacob Cervantes, jcervantes@ira.cinvestav.mx, jacob@jacob-israel.com.mx
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
