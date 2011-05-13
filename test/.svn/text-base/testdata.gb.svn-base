@@ -1,0 +1,251 @@
+LOCUS       Contig1700.1        1549 bp    DNA     linear   PLN 28-AUG-2007
+DEFINITION  yyis Contig1700.1  length=1549     %gc=45.93 
+KEYWORDS    .
+SOURCE      Zea yyis
+  ORGANISM  Zea yyis
+            Eukaryota; Viridiplantae;Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; PACCAD
+            clade; Panicoideae; Andropogoneae; Zea.
+FEATURES             Location/Qualifiers
+     source          1..1549          
+                     /organism="yyis"
+                     /strain="2233"
+                     /chromosome=""
+ORIGIN
+        1 tgagctctgg gatcacaggc cacgccaaga aaaacattgt aggtgagttt cttcttctcc
+       61 ttatgttact gattgctgct tgtntttact ctaatctttc agagatctaa tgcactgatc
+      121 ttgatatttc aaaatatgca taattaattc attttctatt tcaggcatca ctttttctac
+      181 tgccaaatgc attctgtgac ttgggtttct catttgaata tatcaattct gctgatttga
+      241 attcagttgc taataaaaaa gtattttgct gttgttatta gattttgcag ccggcgctac
+      301 agttttgttt ggtgaataat gcatttttgt ttctgttgtg taggaatcag cggaaaagct
+      361 gagaggacga cagacggtgg gatcgaagta acaacggttc gatgaatttg aggtgcatat
+      421 ggctctttgt acaacctaag atgtacgaat ttcatggctt tgattaattt tttttttgaa
+      481 acgaaccagg taagagagct gcccattata ttaataaaaa aggtccggat tagacaaaac
+      541 aacaaacaac atgcgattgg attaagacat caacacgccg agaccataca aattaaactc
+      601 gtcggttgga ttggtacatc aacacggcac aaaactcacc gtctacagaa tgcacaaaca
+      661 ttctagacaa cacaaacccc tcacacacaa cccctccaga gttatcgttg tcgagctcca
+      721 caagacggca catggccaaa gaaaacacga caacacctac aaccaaacac cagcacagaa
+      781 atgaggaaga tcacgttgcg ccatcattgt caagcctcaa cacaccccac gcgtgacaac
+      841 tccgattctt caccaacgag cttgaaccac agtcctgccc ggcagatgcc cgacctgtgg
+      901 gggacagata tcctccgggt ccactagaag gctagaaggc ctcgcgaaag gctttaggcc
+      961 tattgttttg cgaggccgtc cctttgtggt ccagagaaga actgctagca gagtgggcta
+     1021 acgcggagaa tgagcggaca cgggcccagg cggctcgtgg gatttaaacg ttatccacag
+     1081 ctctgatccg attctcccgc gcgacaccct tggacgtcgg aaccaaataa ggataagtcg
+     1141 gcaggattat aggaagataa gttcagtcgg ttcactatta tttaggaata catcgttatc
+     1201 atacacgcat gtaagtgccc cacggtcgga tatataaggc ctagggagca ccccatcaaa
+     1261 aacaggtcat tcatcagcca tccacttagt tctctagcat tctccatact agagaattct
+     1321 cctgtaacct accacataaa gatccacacc aggaagtagg gtattacgcc tctccaagca
+     1381 gcccaaacct gtagaaaatt acctgtcgtc tctcgtgcat cccgcacgaa ccattgagtt
+     1441 acagtcaaca acaccgtcct acccaaaagc accgcgaggg gtaaccctgg tgtgcggtcg
+     1501 ggctctaaac accgacagct ggcgcgccag gtagggggtg tgtcgttga
+//
+
+LOCUS       Contig173421.2        1549 bp    DNA     linear   PLN 28-AUG-2007
+DEFINITION  yyis Contig173467.1  length=1549     %gc=45.93 
+KEYWORDS    .
+SOURCE      Zea yyis
+  ORGANISM  Zea yyis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; PACCAD
+            clade; Panicoideae; Andropogoneae; Zea.
+FEATURES             Location/Qualifiers
+     source          1..1549          
+                     /organism="yyis"
+                     /strain="2233"
+                     /chromosome=""
+ORIGIN
+        1 tgagctctgg gatcacaggc cacgccaaga aaaacattgt aggtgagttt cttcttctcc
+       61 ttatgttact gattgctgct tgtntttact ctaatctttc agagatctaa tgcactgatc
+      121 ttgatatttc aaaatatgca taattaattc attttctatt tcaggcatca ctttttctac
+      181 tgccaaatgc attctgtgac ttgggtttct catttgaata tatcaattct gctgatttga
+      241 attcagttgc taataaaaaa gtattttgct gttgttatta gattttgcag ccggcgctac
+      301 agttttgttt ggtgaataat gcatttttgt ttctgttgtg taggaatcag cggaaaagct
+      361 gagaggacga cagacggtgg gatcgaagta acaacggttc gatgaatttg aggtgcatat
+      421 ggctctttgt acaacctaag atgtacgaat ttcatggctt tgattaattt tttttttgaa
+      481 acgaaccagg taagagagct gcccattata ttaataaaaa aggtccggat tagacaaaac
+      541 aacaaacaac atgcgattgg attaagacat caacacgccg agaccataca aattaaactc
+      601 gtcggttgga ttggtacatc aacacggcac aaaactcacc gtctacagaa tgcacaaaca
+      661 ttctagacaa cacaaacccc tcacacacaa cccctccaga gttatcgttg tcgagctcca
+      721 caagacggca catggccaaa gaaaacacga caacacctac aaccaaacac cagcacagaa
+      781 atgaggaaga tcacgttgcg ccatcattgt caagcctcaa cacaccccac gcgtgacaac
+      841 tccgattctt caccaacgag cttgaaccac agtcctgccc ggcagatgcc cgacctgtgg
+      901 gggacagata tcctccgggt ccactagaag gctagaaggc ctcgcgaaag gctttaggcc
+      961 tattgttttg cgaggccgtc cctttgtggt ccagagaaga actgctagca gagtgggcta
+     1021 acgcggagaa tgagcggaca cgggcccagg cggctcgtgg gatttaaacg ttatccacag
+     1081 ctctgatccg attctcccgc gcgacaccct tggacgtcgg aaccaaataa ggataagtcg
+     1141 gcaggattat aggaagataa gttcagtcgg ttcactatta tttaggaata catcgttatc
+     1201 atacacgcat gtaagtgccc cacggtcgga tatataaggc ctagggagca ccccatcaaa
+     1261 aacaggtcat tcatcagcca tccacttagt tctctagcat tctccatact agagaattct
+     1321 cctgtaacct accacataaa gatccacacc aggaagtagg gtattacgcc tctccaagca
+     1381 gcccaaacct gtagaaaatt acctgtcgtc tctcgtgcat cccgcacgaa ccattgagtt
+     1441 acagtcaaca acaccgtcct acccaaaagc accgcgaggg gtaaccctgg tgtgcggtcg
+     1501 ggctctaaac accgacagct ggcgcgccag gtagggggtg tgtcgttga
+//
+
+LOCUS       Contig173347.3        1549 bp    DNA     linear   PLN 28-AUG-2007
+DEFINITION  yyis Contig173467.1  length=1549     %gc=45.93 
+KEYWORDS    .
+SOURCE      Zea yyis
+  ORGANISM  Zea yyis
+            Eukaryota;Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; PACCAD
+            clade; Panicoideae; Andropogoneae; Zea.
+FEATURES             Location/Qualifiers
+     source          1..1549          
+                     /organism="yyis"
+                     /strain="2233"
+                     /chromosome=""
+ORIGIN
+        1 tgagctctgg gatcacaggc cacgccaaga aaaacattgt aggtgagttt cttcttctcc
+       61 ttatgttact gattgctgct tgtntttact ctaatctttc agagatctaa tgcactgatc
+      121 ttgatatttc aaaatatgca taattaattc attttctatt tcaggcatca ctttttctac
+      181 tgccaaatgc attctgtgac ttgggtttct catttgaata tatcaattct gctgatttga
+      241 attcagttgc taataaaaaa gtattttgct gttgttatta gattttgcag ccggcgctac
+      301 agttttgttt ggtgaataat gcatttttgt ttctgttgtg taggaatcag cggaaaagct
+      361 gagaggacga cagacggtgg gatcgaagta acaacggttc gatgaatttg aggtgcatat
+      421 ggctctttgt acaacctaag atgtacgaat ttcatggctt tgattaattt tttttttgaa
+      481 acgaaccagg taagagagct gcccattata ttaataaaaa aggtccggat tagacaaaac
+      541 aacaaacaac atgcgattgg attaagacat caacacgccg agaccataca aattaaactc
+      601 gtcggttgga ttggtacatc aacacggcac aaaactcacc gtctacagaa tgcacaaaca
+      661 ttctagacaa cacaaacccc tcacacacaa cccctccaga gttatcgttg tcgagctcca
+      721 caagacggca catggccaaa gaaaacacga caacacctac aaccaaacac cagcacagaa
+      781 atgaggaaga tcacgttgcg ccatcattgt caagcctcaa cacaccccac gcgtgacaac
+      841 tccgattctt caccaacgag cttgaaccac agtcctgccc ggcagatgcc cgacctgtgg
+      901 gggacagata tcctccgggt ccactagaag gctagaaggc ctcgcgaaag gctttaggcc
+      961 tattgttttg cgaggccgtc cctttgtggt ccagagaaga actgctagca gagtgggcta
+     1021 acgcggagaa tgagcggaca cgggcccagg cggctcgtgg gatttaaacg ttatccacag
+     1081 ctctgatccg attctcccgc gcgacaccct tggacgtcgg aaccaaataa ggataagtcg
+     1141 gcaggattat aggaagataa gttcagtcgg ttcactatta tttaggaata catcgttatc
+     1201 atacacgcat gtaagtgccc cacggtcgga tatataaggc ctagggagca ccccatcaaa
+     1261 aacaggtcat tcatcagcca tccacttagt tctctagcat tctccatact agagaattct
+     1321 cctgtaacct accacataaa gatccacacc aggaagtagg gtattacgcc tctccaagca
+     1381 gcccaaacct gtagaaaatt acctgtcgtc tctcgtgcat cccgcacgaa ccattgagtt
+     1441 acagtcaaca acaccgtcct acccaaaagc accgcgaggg gtaaccctgg tgtgcggtcg
+     1501 ggctctaaac accgacagct ggcgcgccag gtagggggtg tgtcgttga
+//
+
+LOCUS       Contig1731237.4        1549 bp    DNA     linear   PLN 28-AUG-2007
+DEFINITION  yyis Contig173467.1  length=1549     %gc=45.93 
+KEYWORDS    .
+SOURCE      Zea yyis
+  ORGANISM  Zea yyis
+            Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; PACCAD
+            clade; Panicoideae; Andropogoneae; Zea.
+FEATURES             Location/Qualifiers
+     source          1..1549          
+                     /organism="yyis"
+                     /strain="2233"
+                     /chromosome=""
+ORIGIN
+        1 tgagctctgg gatcacaggc cacgccaaga aaaacattgt aggtgagttt cttcttctcc
+       61 ttatgttact gattgctgct tgtntttact ctaatctttc agagatctaa tgcactgatc
+      121 ttgatatttc aaaatatgca taattaattc attttctatt tcaggcatca ctttttctac
+      181 tgccaaatgc attctgtgac ttgggtttct catttgaata tatcaattct gctgatttga
+      241 attcagttgc taataaaaaa gtattttgct gttgttatta gattttgcag ccggcgctac
+      301 agttttgttt ggtgaataat gcatttttgt ttctgttgtg taggaatcag cggaaaagct
+      361 gagaggacga cagacggtgg gatcgaagta acaacggttc gatgaatttg aggtgcatat
+      421 ggctctttgt acaacctaag atgtacgaat ttcatggctt tgattaattt tttttttgaa
+      481 acgaaccagg taagagagct gcccattata ttaataaaaa aggtccggat tagacaaaac
+      541 aacaaacaac atgcgattgg attaagacat caacacgccg agaccataca aattaaactc
+      601 gtcggttgga ttggtacatc aacacggcac aaaactcacc gtctacagaa tgcacaaaca
+      661 ttctagacaa cacaaacccc tcacacacaa cccctccaga gttatcgttg tcgagctcca
+      721 caagacggca catggccaaa gaaaacacga caacacctac aaccaaacac cagcacagaa
+      781 atgaggaaga tcacgttgcg ccatcattgt caagcctcaa cacaccccac gcgtgacaac
+      841 tccgattctt caccaacgag cttgaaccac agtcctgccc ggcagatgcc cgacctgtgg
+      901 gggacagata tcctccgggt ccactagaag gctagaaggc ctcgcgaaag gctttaggcc
+      961 tattgttttg cgaggccgtc cctttgtggt ccagagaaga actgctagca gagtgggcta
+     1021 acgcggagaa tgagcggaca cgggcccagg cggctcgtgg gatttaaacg ttatccacag
+     1081 ctctgatccg attctcccgc gcgacaccct tggacgtcgg aaccaaataa ggataagtcg
+     1141 gcaggattat aggaagataa gttcagtcgg ttcactatta tttaggaata catcgttatc
+     1201 atacacgcat gtaagtgccc cacggtcgga tatataaggc ctagggagca ccccatcaaa
+     1261 aacaggtcat tcatcagcca tccacttagt tctctagcat tctccatact agagaattct
+     1321 cctgtaacct accacataaa gatccacacc aggaagtagg gtattacgcc tctccaagca
+     1381 gcccaaacct gtagaaaatt acctgtcgtc tctcgtgcat cccgcacgaa ccattgagtt
+     1441 acagtcaaca acaccgtcct acccaaaagc accgcgaggg gtaaccctgg tgtgcggtcg
+     1501 ggctctaaac accgacagct ggcgcgccag gtagggggtg tgtcgttga
+//
+
+LOCUS       Contig172367.5        1549 bp    DNA     linear   PLN 28-AUG-2007
+DEFINITION  yyis Contig121467.1  length=1549     %gc=45.93 
+KEYWORDS    .
+SOURCE      Zea yyis
+  ORGANISM  Zea yyis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; PACCAD
+            clade; Panicoideae; Andropogoneae; Zea.
+FEATURES             Location/Qualifiers
+     source          1..1549          
+                     /organism="yyis"
+                     /strain="2233"
+                     /chromosome=""
+ORIGIN
+        1 tgagctctgg gatcacaggc cacgccaaga aaaacattgt aggtgagttt cttcttctcc
+       61 ttatgttact gattgctgct tgtntttact ctaatctttc agagatctaa tgcactgatc
+      121 ttgatatttc aaaatatgca taattaattc attttctatt tcaggcatca ctttttctac
+      181 tgccaaatgc attctgtgac ttgggtttct catttgaata tatcaattct gctgatttga
+      241 attcagttgc taataaaaaa gtattttgct gttgttatta gattttgcag ccggcgctac
+      301 agttttgttt ggtgaataat gcatttttgt ttctgttgtg taggaatcag cggaaaagct
+      361 gagaggacga cagacggtgg gatcgaagta acaacggttc gatgaatttg aggtgcatat
+      421 ggctctttgt acaacctaag atgtacgaat ttcatggctt tgattaattt tttttttgaa
+      481 acgaaccagg taagagagct gcccattata ttaataaaaa aggtccggat tagacaaaac
+      541 aacaaacaac atgcgattgg attaagacat caacacgccg agaccataca aattaaactc
+      601 gtcggttgga ttggtacatc aacacggcac aaaactcacc gtctacagaa tgcacaaaca
+      661 ttctagacaa cacaaacccc tcacacacaa cccctccaga gttatcgttg tcgagctcca
+      721 caagacggca catggccaaa gaaaacacga caacacctac aaccaaacac cagcacagaa
+      781 atgaggaaga tcacgttgcg ccatcattgt caagcctcaa cacaccccac gcgtgacaac
+      841 tccgattctt caccaacgag cttgaaccac agtcctgccc ggcagatgcc cgacctgtgg
+      901 gggacagata tcctccgggt ccactagaag gctagaaggc ctcgcgaaag gctttaggcc
+      961 tattgttttg cgaggccgtc cctttgtggt ccagagaaga actgctagca gagtgggcta
+     1021 acgcggagaa tgagcggaca cgggcccagg cggctcgtgg gatttaaacg ttatccacag
+     1081 ctctgatccg attctcccgc gcgacaccct tggacgtcgg aaccaaataa ggataagtcg
+     1141 gcaggattat aggaagataa gttcagtcgg ttcactatta tttaggaata catcgttatc
+     1201 atacacgcat gtaagtgccc cacggtcgga tatataaggc ctagggagca ccccatcaaa
+     1261 aacaggtcat tcatcagcca tccacttagt tctctagcat tctccatact agagaattct
+     1321 cctgtaacct accacataaa gatccacacc aggaagtagg gtattacgcc tctccaagca
+     1381 gcccaaacct gtagaaaatt acctgtcgtc tctcgtgcat cccgcacgaa ccattgagtt
+     1441 acagtcaaca acaccgtcct acccaaaagc accgcgaggg gtaaccctgg tgtgcggtcg
+     1501 ggctctaaac accgacagct ggcgcgccag gtagggggtg tgtcgttga
+//
+
+LOCUS       Contig145467.6        1549 bp    DNA     linear   PLN 28-AUG-2007
+DEFINITION  Zea yyis Contig134467.1  length=1549     %gc=45.93 
+KEYWORDS    .
+SOURCE      Zea yyis
+  ORGANISM  Zea yyis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; Liliopsida; Poales; Poaceae; PACCAD
+            clade; Panicoideae; Andropogoneae; Zea.
+FEATURES             Location/Qualifiers
+     source          1..1549          
+                     /organism="yyis"
+                     /strain="2233"
+                     /chromosome=""
+ORIGIN
+        1 tgagctctgg gatcacaggc cacgccaaga aaaacattgt aggtgagttt cttcttctcc
+       61 ttatgttact gattgctgct tgtntttact ctaatctttc agagatctaa tgcactgatc
+      121 ttgatatttc aaaatatgca taattaattc attttctatt tcaggcatca ctttttctac
+      181 tgccaaatgc attctgtgac ttgggtttct catttgaata tatcaattct gctgatttga
+      241 attcagttgc taataaaaaa gtattttgct gttgttatta gattttgcag ccggcgctac
+      301 agttttgttt ggtgaataat gcatttttgt ttctgttgtg taggaatcag cggaaaagct
+      361 gagaggacga cagacggtgg gatcgaagta acaacggttc gatgaatttg aggtgcatat
+      421 ggctctttgt acaacctaag atgtacgaat ttcatggctt tgattaattt tttttttgaa
+      481 acgaaccagg taagagagct gcccattata ttaataaaaa aggtccggat tagacaaaac
+      541 aacaaacaac atgcgattgg attaagacat caacacgccg agaccataca aattaaactc
+      601 gtcggttgga ttggtacatc aacacggcac aaaactcacc gtctacagaa tgcacaaaca
+      661 ttctagacaa cacaaacccc tcacacacaa cccctccaga gttatcgttg tcgagctcca
+      721 caagacggca catggccaaa gaaaacacga caacacctac aaccaaacac cagcacagaa
+      781 atgaggaaga tcacgttgcg ccatcattgt caagcctcaa cacaccccac gcgtgacaac
+      841 tccgattctt caccaacgag cttgaaccac agtcctgccc ggcagatgcc cgacctgtgg
+      901 gggacagata tcctccgggt ccactagaag gctagaaggc ctcgcgaaag gctttaggcc
+      961 tattgttttg cgaggccgtc cctttgtggt ccagagaaga actgctagca gagtgggcta
+     1021 acgcggagaa tgagcggaca cgggcccagg cggctcgtgg gatttaaacg ttatccacag
+     1081 ctctgatccg attctcccgc gcgacaccct tggacgtcgg aaccaaataa ggataagtcg
+     1141 gcaggattat aggaagataa gttcagtcgg ttcactatta tttaggaata catcgttatc
+     1201 atacacgcat gtaagtgccc cacggtcgga tatataaggc ctagggagca ccccatcaaa
+     1261 aacaggtcat tcatcagcca tccacttagt tctctagcat tctccatact agagaattct
+     1321 cctgtaacct accacataaa gatccacacc aggaagtagg gtattacgcc tctccaagca
+     1381 gcccaaacct gtagaaaatt acctgtcgtc tctcgtgcat cccgcacgaa ccattgagtt
+     1441 acagtcaaca acaccgtcct acccaaaagc accgcgaggg gtaaccctgg tgtgcggtcg
+     1501 ggctctaaac accgacagct ggcgcgccag gtagggggtg tgtcgttga
+//
